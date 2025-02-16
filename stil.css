@@ -1,0 +1,56 @@
+.orqa{
+    background-color:cadetblue;
+}
+.kevin{
+    color: aliceblue;
+}
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+
+     
+}
+ul li{
+            margin: 0 15px;
+            color: white;
+            text-decoration: none;
+            font-weight: 400;
+            list-style: none;
+    
+
+}
+li a{
+    color: aliceblue;
+}
+.markaz{
+    text-align: center;
+    color: aliceblue;
+
+}
+.lorem{
+    width: 800px;
+    height: 100px;
+   color: aliceblue;
+   margin: auto;
+}
+.nom{
+    font-size: 50px;
+}
+.element{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.sumbit{
+
+
+    border: 2px solid white;
+            background-color:cadetblue;
+            color: white;
+            cursor: pointer;
+}
+.tugma{
+    text-align: center;
+}
